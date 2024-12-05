@@ -1,0 +1,5 @@
+{
+  "serviceName": "MeuServico",
+  "jarPath": "C:\\caminho\\para\\seu-arquivo.jar",
+  "description": "Este é um serviço que executa um arquivo JAR."
+}
